@@ -3,4 +3,5 @@ let sum = 0;
 ar.map((item, id) => {
   sum = sum + item;
 });
+
 sum;
