@@ -4,6 +4,7 @@ let add = arr.map((element, index) => {
     sum = element + sum
     // return sum
 } )
+
 sum
 
 console.log(sum)
